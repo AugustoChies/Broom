@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ff0882c0b1c01ea438e186adf7d94aff
+timeCreated: 1507691775
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ablefont
+  fontNames:
+  - Ablefont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
